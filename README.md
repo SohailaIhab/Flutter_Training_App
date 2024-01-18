@@ -1,1 +1,1 @@
-![Demo](Screenshots/AnimatedSplashScreen Screenshot.png)
+![Demo](screenshots/animatedsplashscreen.png)
